@@ -1,7 +1,7 @@
 # Lumina-Luxe-e-commerce-
 I have completed the development of Lumina Luxe, a premium e-commerce frontend. A fully functional shopping experience with smooth animations and a seamless dark/light theme integration.
 
-# 🛒 LEXORA — Modern E-Commerce Experience
+# 🛒 Lumina-Luxe — Modern E-Commerce Experience
 
 Welcome to **Lumina-Luxe**, a fully functional modern e-commerce platform designed to deliver a smooth, engaging, and visually appealing shopping experience.
 
