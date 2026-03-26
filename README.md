@@ -3,7 +3,7 @@ I have completed the development of Lumina Luxe, a premium e-commerce frontend. 
 
 All Rights Reserved
 
-© 2026 LEXORA. All rights reserved.
+© 2026 bipulray1t. All rights reserved.
 
 This project and its source code are the property of the author.
 No part of this project may be copied, modified, distributed, or used
