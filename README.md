@@ -22,7 +22,7 @@ Lumina-Luxe focuses on delivering a **clean, minimal, and interactive interface*
 - Elegant typography and spacing  
 - Consistent color system for both dark and light modes  
 
-
+..
 
 All Rights Reserved
 
